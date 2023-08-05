@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_authentication_screen/widgets/authentiation_text_form_field.dart';
+import 'package:flutter_authentication_screen/widgets/authentication_text_form_field.dart';
 import 'package:flutter_authentication_screen/widgets/wave.dart';
 
 class AuthenticationScreen extends StatefulWidget {
